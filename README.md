@@ -5,3 +5,7 @@
 ## 🍻
 
 ![Streak Stats](https://streak-stats.demolab.com?user=ttlogan&theme=dark)
+
+## 💻
+
+![Top Languages](https://github-readme-stats-rho-pink-42.vercel.app/api/top-langs?username=ttlogan&repo=corner-cases&layout=compact&theme=dark)

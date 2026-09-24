@@ -9,5 +9,3 @@
 ## 🤝
 
 ![Streak Stats](https://streak-stats.demolab.com?user=ttlogan&theme=dark)
-
-![Contributions Heatmap](https://ghchart.rshah.org/ttlogan)
